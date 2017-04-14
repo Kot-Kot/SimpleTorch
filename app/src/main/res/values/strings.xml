@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleTorch</string>
+    <string name="torch_label">Torch label</string>
+    <string name="torch_desc">Torch description</string>
+</resources>

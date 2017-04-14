@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#080726</color>
+    <color name="colorPrimaryDark">#040313</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMyBackground">#2b24c0</color>
+    <color name="colorMyButton">#080726</color>
+    <color name="colorMyBulbOn">#b9c024</color>
+    <color name="colorMyBulbOff">#040313</color>
+
+</resources>
